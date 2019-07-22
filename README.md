@@ -1,5 +1,7 @@
 # LED-pendants
 
+Original project https://www.instructables.com/id/LED-Jewelry/
+
 ## Materials
 
 Surface mount LED (size 1206)
